@@ -15,6 +15,7 @@
 		C5C919F72334BE0700B1F9BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5C919F52334BE0700B1F9BA /* LaunchScreen.storyboard */; };
 		C5C91A022334BE0700B1F9BA /* custom_tableviewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5C91A012334BE0700B1F9BA /* custom_tableviewTests.swift */; };
 		C5C91A0D2334BE0700B1F9BA /* custom_tableviewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5C91A0C2334BE0700B1F9BA /* custom_tableviewUITests.swift */; };
+		C5C91A1B2334C4C300B1F9BA /* myTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5C91A1A2334C4C300B1F9BA /* myTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C5C91A082334BE0700B1F9BA /* custom_tableviewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = custom_tableviewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5C91A0C2334BE0700B1F9BA /* custom_tableviewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = custom_tableviewUITests.swift; sourceTree = "<group>"; };
 		C5C91A0E2334BE0700B1F9BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C5C91A1A2334C4C300B1F9BA /* myTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				C5C919E92334BE0700B1F9BA /* AppDelegate.swift */,
 				C5C919EB2334BE0700B1F9BA /* ViewController.swift */,
 				C5C919ED2334BE0700B1F9BA /* Main.storyboard */,
+				C5C91A1A2334C4C300B1F9BA /* myTableViewController.swift */,
 				C5C919F32334BE0700B1F9BA /* Assets.xcassets */,
 				C5C919F52334BE0700B1F9BA /* LaunchScreen.storyboard */,
 				C5C919F82334BE0700B1F9BA /* Info.plist */,
@@ -265,6 +268,7 @@
 				C5C919EC2334BE0700B1F9BA /* ViewController.swift in Sources */,
 				C5C919EA2334BE0700B1F9BA /* AppDelegate.swift in Sources */,
 				C5C919F22334BE0700B1F9BA /* custom_tableview.xcdatamodeld in Sources */,
+				C5C91A1B2334C4C300B1F9BA /* myTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
